@@ -1,0 +1,13 @@
+
+.App {
+  text-align: center;
+}
+nav{
+  filter: drop-shadow(1px 3px 10px #929292);
+}
+.navbar-brand ,.nav-item:nth-of-type(1) a{
+  color:#0caae5;
+}
+.drop_shadow{
+  filter: drop-shadow(3px 2px 9px #000000);
+}
